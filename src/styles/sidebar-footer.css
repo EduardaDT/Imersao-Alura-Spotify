@@ -201,14 +201,14 @@ h1 {
 .disclaimer-premium .disclaimer-premium__title {
     color: #ffffff;
     text-transform: uppercase;
-    font-weight: 500;
-    font-size: 12px;
+    font-size: 0.8125rem;
+    font-weight: 700;
     margin-bottom: 10px;
 }
 
 .disclaimer-premium .disclaimer-premium__subtitle {
     color: #ffffff;
-    font-size: 14px;
+    font-size: 1rem;
     font-weight: 500;
 }
 
