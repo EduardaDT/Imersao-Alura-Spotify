@@ -63,8 +63,8 @@
   }
   
   .header__search input {
-      background: transparent;
-      border: none;
+    background: transparent;
+    border: none;
     padding: 0px 100px 0 12px;
     color: #ffffff;
     text-overflow: ellipsis;
