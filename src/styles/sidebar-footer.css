@@ -228,3 +228,8 @@ h1 {
     cursor: pointer;
     flex-shrink: 0;
 }
+
+.disclaimer-premium button:hover {
+    transform: scale(1.04);
+    background-color: #e9e9e9;
+  }
