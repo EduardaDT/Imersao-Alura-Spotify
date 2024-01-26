@@ -183,6 +183,11 @@ h1 {
     border-radius: 20px;
 }
 
+.languages .languages__button:hover {
+    transform: scale(1.04);
+    border-color: #ffffff;
+  }
+
 .disclaimer-premium {
     position: fixed;
     bottom: 0;
